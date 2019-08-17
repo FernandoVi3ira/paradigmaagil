@@ -1,2 +1,2 @@
 # paradigmaagil
-Repositório para os arquivos da disciplina Paradigmas de desenvolvimento agil
+Repositório para os arquivos da disciplina Paradigmas de desenvolvimento Ágil
